@@ -1,5 +1,5 @@
 .header{
-    background: linear-gradient(to bottom right, rgba(71, 45, 45,0.6),rgba(85, 57, 57,0.4));
+    background: linear-gradient(to bottom right,rgba(37, 87, 167, 0.7),rgba(0, 0, 0, 0.6)), url("/public/img/lego-starwars.jpg");
     height: 100vh;
     width: 100%;
     background-position: bottom;

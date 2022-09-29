@@ -8,6 +8,15 @@
     font-size: 7rem;
     color:#eee;
     }
+    .Home{
+        font-size: 2rem;
+        background:#EEE;
+        border: none;
+        padding: 1rem 4rem;
+        text-transform: uppercase;
+        border-radius: 0.5rem;
+        transition: 0.2s;
+    }
     @media screen and (max-width:1000px){
         .navigation__logo{
             font-size: 5rem;
