@@ -1,8 +1,9 @@
 import Navigation from "./Navigation";
 import "./App.css";
+import HomePage from "./Homepage";
 const App = () => {
     return(
-<Navigation/>
+<HomePage/>
     );
     
 }

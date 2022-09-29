@@ -1,7 +1,7 @@
-import Navigation from "../components/Navigation/Navigation";
-import Header from "../components/Header/Header";
-import  Section from "../components/Section/Section";
-import Card from "../components/Card/Card";
+import Navigation from "./Navigation";
+import Header from "./Header";
+import  Section from "./Section";
+import Card from "./Card";
 
 const HomePage = ()=>{
     return(
