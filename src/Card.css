@@ -2,6 +2,7 @@
     width: 32.5rem;
     height: 70rem;
     border-radius: 0.5rem ;
+    border: 0.1rem solid black;
     
     
     
@@ -23,7 +24,7 @@
     border-top-right-radius: 0.5rem;
 }
 .card__section{
-    height: 20%;
+    height: 40%;
     background: white;
     border-bottom-left-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;

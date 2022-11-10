@@ -16,8 +16,8 @@
     }
     .section__h2{
         
-    font-family: 'Dancing Script', cursive;
-    font-weight: 400;
+        font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif ;
+    font-weight: 700;
     }
     .section__wrapper{
         display:flex;
@@ -25,3 +25,4 @@
      gap: 2rem;
      flex-wrap: wrap;
     }
+    .img{height: 45rem;}
