@@ -1,5 +1,7 @@
 .card{
-    width: 32.5rem;
+    background: url("./img/Walt_Disney.jpg");
+    background-size: contain;
+    width: 35.5rem;
     height: 70rem;
     border-radius: 0.5rem ;
     border: 0.1rem solid black;
@@ -16,6 +18,7 @@
     
 }
 .card__figure img{
+
     height: 100%;
     width: 100%;
     object-fit: cover;

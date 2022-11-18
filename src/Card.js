@@ -1,8 +1,8 @@
 import "./Card.css";
 const Card = (props) => {
-   let cardImage = <img src={"/img/" + props.image} alt="" />;
+   let cardImage = <img src={"/img/Walt_Disney.jpg" + props.image} alt="wabgftrr" />;
     if (props.image === undefined){
-       cardImage = <img src={"/img/bonen.jpg"} alt="" />;
+       cardImage = <img src={"/img/Walt_Disney.jpg"} alt="walt" />;
     }
     return(
         <article class="card">
